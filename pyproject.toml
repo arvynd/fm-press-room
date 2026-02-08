@@ -1,0 +1,10 @@
+[project]
+name = "fmpsc-sim"
+version = "0.1.0"
+description = "LLM-powered Football Manager press conference simulator"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.40",
+    "rich>=13.0",
+]
